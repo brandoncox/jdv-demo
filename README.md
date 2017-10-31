@@ -1,6 +1,6 @@
 # jdv-demo
 
-A demonstration JBoss Data Virtualization project that creates an [OData](http://www.odata.org) REST api that serves federated data from Postgresql, REST and Excel.  
+A demonstration JBoss Data Virtualization project that creates an [OData](http://www.odata.org) REST api that serves federated data from Postgresql, REST and Excel. Role based security is also applied for column masking and row filtering 
 
 ## Build and Run
 Import this project in JBoss Developer Studio (version 11.0)  as a Teiid Modeling project
