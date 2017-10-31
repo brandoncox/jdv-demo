@@ -1,0 +1,4 @@
+connect
+/subsystem=resource-adapters/resource-adapter=webservice/connection-definitions=rest_ds:remove
+/:reload
+\q
