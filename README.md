@@ -1,4 +1,4 @@
-# demo-jdv
+# jdv-demo
 
 A demonstration JBoss Data Virtualization project that creates an [OData](http://www.odata.org) REST api that serves federated data from Postgresql, REST and Excel.  
 
